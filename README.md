@@ -1,6 +1,5 @@
 ### DOGARMY COMES TO THE LIGHT 
 
-<!--
 **The project was born in the middle of the 
 explosion of the DEFI world, from an idea of young 
 entrepreneurs who want to introduce the 
